@@ -39,6 +39,8 @@
 - Relatório de Suporte
 
 ## 3. Diagrama BPMN
+![Alt text](https://github.com/giulianogimenez/mba-utfpr/blob/main/avaliacao-e-melhoria-de-processo-de-software/BPMN%20Diagram%20for%20Business%20Processes%20by%20Rizwan%20Khawaja%20-%20BPMN%20Diagram%20for%20Business%20Processes.jpg "a title")
+
 
 - **Início:** Reunião de Definição de Requisitos.
 - **Sequência de Atividades:**
